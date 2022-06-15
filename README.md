@@ -1,4 +1,4 @@
-# mim
+# sim
 
 - Estudante do curso pensamento computacional
 - Gosto de pão
